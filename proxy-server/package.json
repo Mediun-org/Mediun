@@ -37,7 +37,7 @@
     "jquery": "^3.4.1",
     "mongodb": "^3.3.3",
     "mongodb-core": "^3.2.7",
-    "mongoose": "^5.7.9",
+    "mongoose": "^5.7.11",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "request": "^2.88.0",
