@@ -34,7 +34,7 @@
     "eslint": "^6.6.0",
     "express": "^4.17.1",
     "express-sse": "^0.5.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mongodb": "^3.3.3",
     "mongodb-core": "^3.2.7",
     "mongoose": "^5.7.9",
